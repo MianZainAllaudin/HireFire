@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe Cnslt",
+      "rating": 3,
+      "reviews": 113,
+      "image": "https://example.com/avatar1.png",
+      "fee": "Rs. 200/hr",
+      "email": "JohnDoe@gmail.com",
+      "phone": "090078601",
+      "address": "Lahore, Samanabad"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe Cnslt",
+      "rating": 4,
+      "reviews": 85,
+      "image": "https://example.com/avatar2.png",
+      "fee": "Rs. 350/hr",
+      "email": "JaneDoe@gmail.com",
+      "phone": "080080800",
+      "address": "Lahore, Askari 11"
+    },
+    {
+        "id": 3,
+        "name": "Giga Nigga Cnslt",
+        "rating": 2,
+        "reviews": 12,
+        "image": "https://example.com/avatar3.png",
+        "fee": "Rs. 8000/hr",
+        "email": "NIGG@gmail.com",
+        "phone": "0123456789",
+        "address": "Lahore, DHA Phase 2"
+    },
+    {
+        "id": 4,
+        "name": "Sonic cnslt",
+        "rating": 5,
+        "reviews": 1012,
+        "image": "https://example.com/avatar4.png",
+        "fee": "Rs. 250/hr",
+        "email": "sonic@gmail.com",
+        "phone": "0320102030201",
+        "address": "Lahore, Bahria Town"
+    },
+    {
+        "id": 5,
+        "name": "Big Chungus",
+        "rating": 1,
+        "reviews": 100,
+        "image": "https://example.com/avatar5.png",
+        "fee": "Rs. 1200/hr",
+        "email": "Chung@gmail.com",
+        "phone": "0427864545",
+        "address": "Lahore, Askari 2"
+    }
+  ]
+  
